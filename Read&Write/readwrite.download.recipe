@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Read&amp;Write.</string>
 	<key>Identifier</key>
-	<string>ca.bc.sd59.munki.download.Read&amp;Write</string>
+	<string>ca.bc.sd59.munki.download.readwrite</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
